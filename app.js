@@ -734,8 +734,6 @@ function createMonumentSidebar(currentFeature) {
   sidebarInfo.style.display = "block";
 }
 
-export{monuments};
-
 // function for listOfMonuments.html
 function createListOfMonuments() {
   var list = document.getElementById("list");
